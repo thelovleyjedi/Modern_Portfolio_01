@@ -1,0 +1,14 @@
+{
+  "name": "rpw",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "author": "Kingsley Lewis",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
