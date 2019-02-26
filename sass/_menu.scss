@@ -100,7 +100,7 @@
     }
 
     &current > a {
-      color: #000000;
+      color: $secondary-color;
     }
   }
   .nav-link {
@@ -115,7 +115,7 @@
     @include easeOut;
 
     &:hover {
-      color: #000000;
+      color: $secondary-color;
     }
   }
 }
